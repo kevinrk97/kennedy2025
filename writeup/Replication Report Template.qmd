@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study 2 by Silverman et al. (2024, PNAS)"
+author: "Kevin Kennedy (email: kevinrk@stanford.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -12,7 +12,17 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+For my replication project, I have decided to replicate Study 2 of Silverman et al. (2024) in PNAS. Silverman et al (2024, Study 2) examined how believing in social mobility may cause parents from higher socioeconomic status to favor their own children in distributing resources, known as “opportunity hoarding”. My current research program examines how institutional norms, policies, and practices can negatively affect students from marginalized social groups in education. With my advisors, Dr. Greg Walton and Dr. Jordan Starck, I am currently examining the downstream effects of these processes on students of colors’ experience, sense of belonging, and motivation, particularly in response to obviously racist or threatening events, policies, or institutions. However, I am also interested in understanding how the beliefs and behaviors of majority group (i.e., wealthy, white) members produce such inequitable and threatening social environments in the first place. Ultimately, I aim to understand when and how these dynamics interact to produce inequality over time, making use of both causal chain (i.e., when the DV of one experiment becomes a manipulated IV in the next experiment; see Spencer et al., 2005) and longitudinal field experiments. As I have already begun to investigate one aspect of this process, the Silverman et al. (2024) study provides a paradigm I could later use to understand how the beliefs and behaviors of majority group members create and sustain inequitable policies. Conducting this replication project will give me experience with this paradigm that I can later apply to my own research. 
+
+Silverman et al. (2024) Study 2 provided causal evidence that parents in the U.S. from higher socioeconomic status backgrounds are motivated to hoard opportunities for their own children. In an experimental study, parents in the U.S. (N = 1,009) were recruited from Prolific and randomly assigned to an upward mobility or downward mobility condition. Both conditions depicted a brief video highlighting economic mobility. In the upward mobility condition the video stated that many children could increase their position in society. However, in the downward mobility condition, the video described the opposite, that many children would decrease their position in society. The results indicate that high-SES, but not low-SES, parents in the upward mobility condition were less likely to support redistributive policies. An exploratory moderated mediation analysis found that the relationship between condition and opportunity hoarding behavior was mediated by beliefs in socioeconomic mobility among high-SES, but not low-SES, parents.
+
+After watching the brief videos, participants completed manipulation checks items, a scale of beliefs in socioeconomic mobility (e.g., “There are a lot of opportunities for people to move up the social ladder”; 5 items on a 7-point Likert scale; Day & Fiske, 2017), support for redistributive policies (e.g., “charging rich parents higher college tuition to increase subsidies and fellowships for lower-income students”) and opportunity hoarding behaviors (e.g., “permit [child name] to misrepresent something about their identity (e.g., belonging to a socially disadvantaged group) to qualify for additional resources or initiatives”). Socioeconomic status was operationalized in several ways and then combined to form a standardized composite. These items included annual household income, education level, and the MacArthur Ladder scale (Adler et al., 2000), which measures subjective perception of one’s socioeconomic position. Participants were categorized as high-SES if they were one standard deviation above the composite and low-SES if they were one standard deviation below the composite. They also included additional demographic measures such as gender, race/ethnicity, political orientation, and demographics about their children (i.e., age, gender, etc.). 
+
+I will gain several skills by conducting the replication project. First, I will gain experience with a new paradigm that could be applicable for my research. I will also gain experience coding videos into surveys in Qualtrics and running a moderated mediation analysis, neither of which I have previously done in my own research. Lastly, I will gain further experience conducting research with specific populations, as I will only recruit parents from the United States. All the measures, materials, videos, and manipulations are available online, which should help with conducting the replication. However, given financial constraints, the large sample required (N = 1,009) might have to be reduced for purposes of this assignment. 
+
+[Link to Github repository](https://github.com/kevinrk97/kennedy2025)
+
+[Link to original paper (in repository)](https://github.com/kevinrk97/kennedy2025/tree/main/original_paper)
 
 
 ## Methods
@@ -92,3 +102,13 @@ Open the discussion section with a paragraph summarizing the primary result from
 ### Commentary
 
 Add open-ended commentary (if any) reflecting (a) insights from follow-up exploratory analysis, (b) assessment of the meaning of the replication (or not) - e.g., for a failure to replicate, are the differences between original and present study ones that definitely, plausibly, or are unlikely to have been moderators of the result, and (c) discussion of any objections or challenges raised by the current and original authors about the replication attempt.  None of these need to be long.
+
+### References 
+Adler, N. E., Epel, E. S., Castellazzo, G., & Ickovics, J. R. (2000). Relationship of subjective and objective social status with psychological and physiological functioning: Preliminary data in healthy, White women. Health Psychology, 19(6), 586. 2 
+
+Day, M. V., & Fiske, S. T. (2017). Movin’on up? How perceptions of social mobility affect our willingness to defend the system. Social Psychological and Personality Science, 8(3), 267-274.
+
+Silverman, D. M., Hernandez, I. A., Schneider, M., Kalil, A., Ryan, R., & Destin, M. (2025). Economic mobility and parents’ opportunity hoarding. Proceedings of the National Academy of Sciences, 121(37), e2407230121.
+
+Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851.
+
